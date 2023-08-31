@@ -45,6 +45,6 @@ In conclusion, this project showcases the successful implementation of secure da
 ## Contact Information
 
 For inquiries and further information, please contact:
-- (mailto:pratikrvibhandik@gmail.com)
+- [Email](pratikrvibhandik@gmail.com)
 - [LinkedIn  Profile] https://www.linkedin.com/in/pratik-vibhandik-0123841a4/
 
